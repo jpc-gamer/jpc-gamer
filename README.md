@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=600&lines=Julia+Peres+Cardoso" />
-</h1>
+<h1 align="center">Julia Peres Cardoso</h1>
 
 ---
 
