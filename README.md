@@ -1,7 +1,5 @@
 <h1 align="center">Julia Peres Cardoso</h1>
 
-
-## 💻 Sobre mim
 🎓 Desenvolvimento de Sistemas - Etec Camargo Aranha  
 🎓 Sistemas de Informação - Mackenzie  
 
