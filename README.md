@@ -16,7 +16,6 @@
   </a>
 </p>
 
-<br>
 
 <h2 align="center">🚀 Tecnologias que utilizo</h2>
 
@@ -26,5 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+</p>
+
+<p align="center">
+  🌱 Em constante aprendizado, evolução e construção de networking na área de tecnologia.
 </p>
 
