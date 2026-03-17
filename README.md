@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F70000&size=35&center=true&vCenter=true&width=1000&lines=Julia+Peres+Cardoso;Desenvolvimento+de+Sistemas;Etec+Camargo+Aranha;Sistemas+de+Informação+-+Mackenzie" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=600&lines=Julia+Peres+Cardoso" />
 </h1>
 
 ---
@@ -26,20 +26,14 @@
 ## 📱 Contato
 
 <div> 
-  <a href="https://instagram.com/SEU_USUARIO" target="_blank">
+  <a href="https://www.instagram.com/juh__peres/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:julia.peres.cardoso@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
-</div>
