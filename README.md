@@ -1,4 +1,6 @@
-<h1 align="center">Julia Peres Cardoso</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Julia+Peres+Cardoso" alt="Julia Peres Cardoso" />
+</p>
 
 <p align="center">
   🎓 <strong>Desenvolvimento de Sistemas</strong> – Etec Professor Camargo Aranha <br>
@@ -16,8 +18,9 @@
   </a>
 </p>
 
-
-<h2 align="center">🚀 Tecnologias que utilizo</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Tecnologias+que+utilizo" alt="Tecnologias" />
+</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
@@ -27,11 +30,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 </p>
 
-<p align="center">
-  🌱 Em constante aprendizado, evolução e construção de networking na área de tecnologia.
-</p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jpc-gamer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpc-gamer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<p align="center">
+  🌱 Em constante aprendizado, evolução e construção de networking na área de tecnologia.
+</p>
