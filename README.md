@@ -8,16 +8,13 @@
 <br>
 
 <p align="center">
-<p>
-  <a href="https://www.instagram.com/juh__peres/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:julia.peres.cardoso@gmail.com">
-     <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
+  <a href="https://www.instagram.com/juh__peres/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:julia.peres.cardoso@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
 </p>
-</p>
-
 
 
 <h2 align="center">🚀 Tecnologias que utilizo</h2>
