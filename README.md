@@ -33,5 +33,5 @@
 </div>
 
 <p align="center">
-  🌱 Em constante aprendizado, evolução e construção de networking na área de tecnologia.
-</p> (Coloque a fonte poppins)
+  📚 Em constante aprendizado, evolução e construção de networking na área de tecnologia.
+</p> 
