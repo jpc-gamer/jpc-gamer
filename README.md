@@ -5,9 +5,8 @@
   🎓 <strong>Sistemas de Informação</strong> – Universidade Presbiteriana Mackenzie
 </p>
 
-<p align="center">
-  💻 Estudante de Sistemas de Informação | Desenvolvedora em formação <br>
-  🚀 Apaixonada por tecnologia, desenvolvimento web e aprendizado contínuo
+<p >
+  💻 Estudante de Sistemas de Informação | Desenvolvedora em formação | Apaixonada por tecnologia, desenvolvimento web e aprendizado contínuo
 </p>
 
 <p align="center">
